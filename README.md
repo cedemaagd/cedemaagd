@@ -4,7 +4,7 @@ Writer/editor with 15+ years of experience. Currently studying APIs at [idrather
 
 ## ✍️ Writing portfolio
 
-To view a sample, click the blue link text to open a PDF in the current window. To open the PDF in a different window, right-click the link text and choose "Open link in new tab".
+To view a sample, click the blue link text to open a PDF in the current window. To open the PDF in a different window, right-click the link text and choose **Open link in new tab**.
 
 ### Technical communications
 
