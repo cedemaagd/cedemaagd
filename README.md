@@ -1,12 +1,12 @@
 ## Chris deMaagd, MS
 
-Writer/editor with 15+ years of experience. Currently studying APIs at [idratherbewriting.com](https://idratherbewriting.com/learnapidoc/#stay-updated) and cybersecurity at {Coursera](https://www.coursera.org/professional-certificates/google-cybersecurity).
+Writer/editor with 15+ years of experience. Currently studying APIs at [idratherbewriting.com](https://idratherbewriting.com/learnapidoc/#stay-updated) and cybersecurity at [Coursera](https://www.coursera.org/professional-certificates/google-cybersecurity).
 
-### ✍️ Writing portfolio
+## ✍️ Writing portfolio
 
 To view a sample, click the blue link text to open a PDF in the current window. To open the PDF in a different window, right-click the link text and choose "Open link in new tab".
 
-#### Technical communications
+### Technical communications
 
 [Universal Windows Platform Apps](https://github.com/cedemaagd/cedemaagd/blob/main/cedemaagd_portfolio_01.pdf)
 </br>**Audience**: Citrix Virtual Apps and Desktops (CVAD) users
@@ -45,7 +45,7 @@ At Xbox Support, our primary goal was to get readers off the page and onto the g
 At Prowess Consulting, I worked on Microsoft's SQL Server Openness and Interoperability Principles Initiative (OIPI) team to routinely revise and publish protocol documentation for Microsoft developers using the Microsoft Developer Network (MSDN). I worked with publishing managers and other stakeholders to keep the documentation current via editing, revising procedures and tracking and resolving technical documentation issues (TDIs). Working on these docs gave me my first direct exposure to a computing language (SQL)—its structure and flow, dry elegance, and application in software.
 </br>
 
-#### Marketing communications
+### Marketing communications
 
 [*NetWork* newsletter](https://github.com/cedemaagd/cedemaagd/blob/main/cedemaagd_portfolio_07.pdf)
 </br>**Audience**: Electric utility employees
@@ -66,7 +66,7 @@ Sometimes it's necessary and useful to recast an internal piece for public consu
 In 2016, I interviewed several alumni of Saint Leo University, a 16,000-student Catholic university 30 miles north of Tampa, Florida. The resulting articles were used by Saint Leo's admissions staff in recruitment publications that targeted prospective undergraduates and graduates seeking online and on-campus degrees. In each publication, the goal was to give prospective students stories with which they can identify. The underlying message was always the same: "A Saint Leo education can enable your success."
 
 
-### 📬 Contact me
+## 📬 Contact me
 [LinkedIn](https://www.linkedin.com/in/chris-demaagd/)
 <!--
 **cedemaagd/cedemaagd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
