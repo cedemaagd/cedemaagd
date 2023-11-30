@@ -1,6 +1,6 @@
 ## Chris deMaagd, MS
 
-Versatile technical writer with over 15 years of experience at Citrix, Tableau Software, Microsoft and and more. Currently studying APIs at [idratherbewriting.com](https://idratherbewriting.com/learnapidoc/#stay-updated) and cybersecurity at [Coursera](https://www.coursera.org/professional-certificates/google-cybersecurity).
+Versatile tech writer with over 15 years of experience at Citrix, Tableau Software, Microsoft and more. Currently studying APIs at [idratherbewriting.com](https://idratherbewriting.com/learnapidoc/#stay-updated) and cybersecurity at [Coursera](https://www.coursera.org/professional-certificates/google-cybersecurity).
 
 ## ✍️ Writing portfolio
 
